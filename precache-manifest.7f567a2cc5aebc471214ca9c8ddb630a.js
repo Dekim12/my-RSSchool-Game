@@ -104,20 +104,20 @@ self.__precacheManifest = [
     "url": "/myGame/static/js/main.2dafa535.chunk.js"
   },
   {
-    "revision": "3fed2b108a56a0a2884cbe33205b76c7",
-    "url": "/myGame/static/media/bgFiting_3.3fed2b10.jpg"
+    "revision": "b9729690d6a9609367c6d5afa1a96b4b",
+    "url": "/myGame/static/media/bgFiting_1.b9729690.jpg"
   },
   {
     "revision": "e023ae8bbfec5cc923f8b653982fb018",
     "url": "/myGame/static/media/bgFiting_2.e023ae8b.jpg"
   },
   {
-    "revision": "5b030375efb86ceb4ea22dbe824073cf",
-    "url": "/myGame/static/media/bgFiting_4.5b030375.jpg"
+    "revision": "3fed2b108a56a0a2884cbe33205b76c7",
+    "url": "/myGame/static/media/bgFiting_3.3fed2b10.jpg"
   },
   {
-    "revision": "b9729690d6a9609367c6d5afa1a96b4b",
-    "url": "/myGame/static/media/bgFiting_1.b9729690.jpg"
+    "revision": "5b030375efb86ceb4ea22dbe824073cf",
+    "url": "/myGame/static/media/bgFiting_4.5b030375.jpg"
   },
   {
     "revision": "f9520d76cdc3686fadb7d52710b93ba0",
