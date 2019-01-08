@@ -1,0 +1,1 @@
+{"version":3,"sources":["images/enemy/body/body_3.svg"],"names":["module","exports","__webpack_require__","p"],"mappings":"6EAAAA,EAAAC,QAAiBC,EAAAC,EAAuB","file":"static/js/3.1f4fc0e9.chunk.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/media/body_3.234c4abc.svg\";"],"sourceRoot":""}
